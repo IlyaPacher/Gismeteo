@@ -14,14 +14,12 @@ gismeteo/
 |   └── ...          # скриншоты и доп файлы к баг-репортам
 ├── bugs/ 
 |   └── ...          # баг-репорты
-├── checklists/ 
+├── checklists/
+    └── ...          # чек-лист
 ├── reports/
 |   └── ...          # Отчет по тестированию 
 ├── test-cases/
 |   └── gismeteo_city_selection_test_cases.md           # Поиск города 
-├── README.md
-├── test-plan.md 
-├── SQL.md 
-
+└──  README.md
 ```
 
